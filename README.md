@@ -1,7 +1,7 @@
 - 👋 やあ！doumo2022です！
 - 👀 これからいろいろプログラミングとか勉強していこうと思います！
 - 🌱 最近はPythonとかJavaSprictとかの勉強をしてます
-- 💞️ I’m looking to collaborate on ...
+- 💞️ EWRSのBOT開発とかに携われたらいいな～って思ってたり。
 - 📫 How to reach me ...
 
 <!---
